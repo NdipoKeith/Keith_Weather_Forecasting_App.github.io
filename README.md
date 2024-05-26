@@ -15,4 +15,4 @@ The following is a list of technologies used for this projects
 * Weather API
 ***
 ## Weather App: Home Interface
-<img width="960" alt="Screenshot (1273)" src="https://github.com/NdipoKeith/Webstack---Portfolio-Project/assets/75925228/097540c9-5d98-4a1f-a999-3a2d7df2cb9a">
+<img width="960" alt="Screenshot (1274)" src="https://github.com/NdipoKeith/Webstack---Portfolio-Project/assets/75925228/6210bdaf-937d-4f87-a2f1-9974661fd28b">
