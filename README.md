@@ -1,4 +1,4 @@
-# Weather-Forecasting-APP
+# Weather-Forecasting-Web-App
 
 ## ALX final Portfolio Project for software Engineers
 ***
