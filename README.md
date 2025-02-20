@@ -19,11 +19,8 @@ The following is a list of technologies used for this projects
 
 ## Project Links
 
-1. [Video Demo for Project](https://drive.google.com/file/d/1mtaj8l0QoKUqkb712a0gmCFF1E_FAkzJ/view?usp=sharing)
+1. [GitHub Link](https://github.com/NdipoKeith/Keith_Weather_Forecasting_App.github.io)
 
-2. [GitHub Link](https://github.com/NdipoKeith/Keith_Weather_Forecasting_App.github.io)
-
-3. [Google Slide for Project](https://docs.google.com/presentation/d/1Cyxch46UX3rKhsT6IYtictsi4-AzC9Fxbu97-DmCwpU/edit?usp=sharing)
 
 ## Author
 Keith Nyirenda
